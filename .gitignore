@@ -27,3 +27,6 @@ main
 /Debug/
 *.log
 *.swp
+
+
+.vscode/
